@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MV Translations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-16 17:47+0000\n"
+"PO-Revision-Date: 2026-07-22 09:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.5; wp-7.0.1; php-8.2.12\n"
+"X-Domain: mv-translations"
+
+#. Author of the plugin
+msgid "Amirmasoud Zamani"
+msgstr "امیرمسعود زمانی"
+
+#: views/templates/single-mv-translations.php:35
+msgid "Author"
+msgstr "نویسنده"
+
+#: views/mv-translations_edit_shortcode.php:121
+msgid "Back to translation list"
+msgstr "بازگشت به لیست ترجمه ها"
+
+#: functions/functions.php:71
+msgid "Create your account"
+msgstr "ساخت حساب کاربری"
+
+#: views/mv-translations_shortcode.php:135
+msgid "Date"
+msgstr "تاریخ"
+
+#: views/mv-translations_shortcode.php:139
+#: views/mv-translations_shortcode.php:151
+msgid "Delete"
+msgstr "حذف"
+
+#: views/mv-translations_shortcode.php:138
+#: views/mv-translations_shortcode.php:150
+msgid "Edit"
+msgstr "ویرایش"
+
+#: mv-translations.php:124
+msgid "Edit Translation"
+msgstr "ویرایش ترجمه"
+
+#: functions/functions.php:82
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+#: functions/functions.php:38
+msgid "Email is not valid"
+msgstr "ایمیل نامعتبر است"
+
+#: functions/functions.php:76
+msgid "First Name"
+msgstr "نام"
+
+#: views/mv-translations_edit_shortcode.php:105
+#: views/mv-translations_metabox.php:16 views/mv-translations_shortcode.php:91
+msgid "Has transliteration?"
+msgstr "دارای آوانویسی است؟"
+
+#. Author URI of the plugin
+msgid "https://codeexplore.ir"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wordpress.org/mv-translations"
+msgstr ""
+
+#: functions/functions.php:30
+msgid "Invalid credentials"
+msgstr "اطلاعات نامعتبر"
+
+#: functions/functions.php:79
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#. Description of the plugin
+msgid ""
+"Manage song translations, singers, transliterations, videos, and user-"
+"submitted lyrics in WordPress"
+msgstr ""
+"مدیریت ترجمه آهنگ‌ها، خوانندگان، آوانگاری‌ها، ویدیوها و اشعار ارسالی کاربران "
+"در وردپرس"
+
+#. Name of the plugin
+msgid "MV Translations"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:108
+#: views/mv-translations_metabox.php:19 views/mv-translations_shortcode.php:94
+#: views/mv-translations_shortcode.php:148
+msgid "No"
+msgstr "خیر"
+
+#: functions/functions.php:93
+msgid "Or login"
+msgstr "یا وارد شوید"
+
+#: functions/functions.php:85
+msgid "Password"
+msgstr "رمز عبور"
+
+#: functions/functions.php:42
+msgid "Password length must be greater than 5"
+msgstr "طول رمز عبور باید بیشتر از ۵ باشد"
+
+#: views/mv-translations_shortcode.php:152
+msgid "Pending"
+msgstr "در حال بررسی"
+
+#: views/mv-translations_edit_shortcode.php:25
+#: views/mv-translations_shortcode.php:25
+msgid "Please, enter a title"
+msgstr "لطفا یک عنوان وارد کنید"
+
+#: views/mv-translations_edit_shortcode.php:30
+#: views/mv-translations_shortcode.php:30
+msgid "Please, enter some content"
+msgstr "لطفا چیزی وارد کنید..."
+
+#: views/mv-translations_edit_shortcode.php:35
+#: views/mv-translations_shortcode.php:35
+msgid "Please, enter some singer"
+msgstr "لطفا خواننده مورد نظر را معرفی کنید"
+
+#: views/mv-translations_shortcode.php:152
+msgid "Published"
+msgstr "منتشر شده"
+
+#: views/templates/single-mv-translations.php:38
+msgid "Published on"
+msgstr "منتشر شده در"
+
+#: functions/functions.php:22
+msgid "Required form field is missing"
+msgstr "فیلد فرم مورد نیاز وجود ندارد"
+
+#: functions/functions.php:88
+msgid "Sign Up"
+msgstr "ثبت نام"
+
+#: post-types/class.mv-translations-cpt.php:53
+#: views/mv-translations_edit_shortcode.php:95
+#: views/mv-translations_shortcode.php:77
+#: views/templates/single-mv-translations.php:30
+msgid "Singer"
+msgstr "خواننده"
+
+#: post-types/class.mv-translations-cpt.php:52
+msgid "Singers"
+msgstr "خوانندگان"
+
+#: views/mv-translations_shortcode.php:140
+msgid "Status"
+msgstr "وضعیت"
+
+#: views/mv-translations_edit_shortcode.php:119
+#: views/mv-translations_shortcode.php:105
+msgid "Submit"
+msgstr "ارسال"
+
+#: views/mv-translations_edit_shortcode.php:78
+#: views/mv-translations_shortcode.php:60
+msgid "Submit new translation"
+msgstr "ارسال ترجمه جدید"
+
+#: mv-translations.php:108
+msgid "Submit Translation"
+msgstr "ارسال ترجمه"
+
+#: functions/functions.php:34
+msgid "The username you entered is not valid!"
+msgstr "نام کاربری که وارد کردید معتبر نیست!"
+
+#: views/mv-translations_edit_shortcode.php:92
+#: views/mv-translations_shortcode.php:74
+#: views/mv-translations_shortcode.php:136
+msgid "Title"
+msgstr "عنوان"
+
+#: post-types/class.mv-translations-cpt.php:21
+#: post-types/class.mv-translations-cpt.php:25
+msgid "Translation"
+msgstr "ترجمه"
+
+#: post-types/class.mv-translations-cpt.php:22
+#: post-types/class.mv-translations-cpt.php:24
+msgid "Translations"
+msgstr "ترجمه ها"
+
+#: post-types/class.mv-translations-cpt.php:75
+msgid "Translations Options"
+msgstr "گزینه های ترجمه"
+
+#: views/mv-translations_shortcode.php:137
+msgid "Transliteration"
+msgstr "آوا نویسی"
+
+#: functions/functions.php:73
+msgid "Username"
+msgstr "نام کاربری"
+
+#: functions/functions.php:26
+msgid "Username too short. At least 6 characters is required"
+msgstr "نام کاربری خیلی کوتاه است. حداقل ۶ کاراکتر لازم است."
+
+#: views/mv-translations_edit_shortcode.php:110
+#: views/mv-translations_metabox.php:22 views/mv-translations_shortcode.php:96
+msgid "Video URL"
+msgstr "آدرس ویدیو"
+
+#: views/mv-translations_edit_shortcode.php:107
+#: views/mv-translations_metabox.php:18 views/mv-translations_shortcode.php:93
+#: views/mv-translations_shortcode.php:148
+msgid "Yes"
+msgstr "بله"
+
+#: views/mv-translations_shortcode.php:132
+msgid "Your Translations"
+msgstr "ترجمه های شما"

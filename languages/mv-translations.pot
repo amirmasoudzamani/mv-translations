@@ -1,0 +1,227 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MV Translations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-22 09:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.5; wp-7.0.1; php-8.2.12\n"
+"X-Domain: mv-translations"
+
+#. Author of the plugin
+msgid "Amirmasoud Zamani"
+msgstr ""
+
+#: views/templates/single-mv-translations.php:35
+msgid "Author"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:121
+msgid "Back to translation list"
+msgstr ""
+
+#: functions/functions.php:71
+msgid "Create your account"
+msgstr ""
+
+#: views/mv-translations_shortcode.php:135
+msgid "Date"
+msgstr ""
+
+#: views/mv-translations_shortcode.php:139
+#: views/mv-translations_shortcode.php:151
+msgid "Delete"
+msgstr ""
+
+#: views/mv-translations_shortcode.php:138
+#: views/mv-translations_shortcode.php:150
+msgid "Edit"
+msgstr ""
+
+#: mv-translations.php:124
+msgid "Edit Translation"
+msgstr ""
+
+#: functions/functions.php:82
+msgid "Email Address"
+msgstr ""
+
+#: functions/functions.php:38
+msgid "Email is not valid"
+msgstr ""
+
+#: functions/functions.php:76
+msgid "First Name"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:105
+#: views/mv-translations_metabox.php:16 views/mv-translations_shortcode.php:91
+msgid "Has transliteration?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeexplore.ir"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wordpress.org/mv-translations"
+msgstr ""
+
+#: functions/functions.php:30
+msgid "Invalid credentials"
+msgstr ""
+
+#: functions/functions.php:79
+msgid "Last Name"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Manage song translations, singers, transliterations, videos, and user-"
+"submitted lyrics in WordPress"
+msgstr ""
+
+#. Name of the plugin
+msgid "MV Translations"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:108
+#: views/mv-translations_metabox.php:19 views/mv-translations_shortcode.php:94
+#: views/mv-translations_shortcode.php:148
+msgid "No"
+msgstr ""
+
+#: functions/functions.php:93
+msgid "Or login"
+msgstr ""
+
+#: functions/functions.php:85
+msgid "Password"
+msgstr ""
+
+#: functions/functions.php:42
+msgid "Password length must be greater than 5"
+msgstr ""
+
+#: views/mv-translations_shortcode.php:152
+msgid "Pending"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:25
+#: views/mv-translations_shortcode.php:25
+msgid "Please, enter a title"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:30
+#: views/mv-translations_shortcode.php:30
+msgid "Please, enter some content"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:35
+#: views/mv-translations_shortcode.php:35
+msgid "Please, enter some singer"
+msgstr ""
+
+#: views/mv-translations_shortcode.php:152
+msgid "Published"
+msgstr ""
+
+#: views/templates/single-mv-translations.php:38
+msgid "Published on"
+msgstr ""
+
+#: functions/functions.php:22
+msgid "Required form field is missing"
+msgstr ""
+
+#: functions/functions.php:88
+msgid "Sign Up"
+msgstr ""
+
+#: post-types/class.mv-translations-cpt.php:53
+#: views/mv-translations_edit_shortcode.php:95
+#: views/mv-translations_shortcode.php:77
+#: views/templates/single-mv-translations.php:30
+msgid "Singer"
+msgstr ""
+
+#: post-types/class.mv-translations-cpt.php:52
+msgid "Singers"
+msgstr ""
+
+#: views/mv-translations_shortcode.php:140
+msgid "Status"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:119
+#: views/mv-translations_shortcode.php:105
+msgid "Submit"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:78
+#: views/mv-translations_shortcode.php:60
+msgid "Submit new translation"
+msgstr ""
+
+#: mv-translations.php:108
+msgid "Submit Translation"
+msgstr ""
+
+#: functions/functions.php:34
+msgid "The username you entered is not valid!"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:92
+#: views/mv-translations_shortcode.php:74
+#: views/mv-translations_shortcode.php:136
+msgid "Title"
+msgstr ""
+
+#: post-types/class.mv-translations-cpt.php:21
+#: post-types/class.mv-translations-cpt.php:25
+msgid "Translation"
+msgstr ""
+
+#: post-types/class.mv-translations-cpt.php:22
+#: post-types/class.mv-translations-cpt.php:24
+msgid "Translations"
+msgstr ""
+
+#: post-types/class.mv-translations-cpt.php:75
+msgid "Translations Options"
+msgstr ""
+
+#: views/mv-translations_shortcode.php:137
+msgid "Transliteration"
+msgstr ""
+
+#: functions/functions.php:73
+msgid "Username"
+msgstr ""
+
+#: functions/functions.php:26
+msgid "Username too short. At least 6 characters is required"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:110
+#: views/mv-translations_metabox.php:22 views/mv-translations_shortcode.php:96
+msgid "Video URL"
+msgstr ""
+
+#: views/mv-translations_edit_shortcode.php:107
+#: views/mv-translations_metabox.php:18 views/mv-translations_shortcode.php:93
+#: views/mv-translations_shortcode.php:148
+msgid "Yes"
+msgstr ""
+
+#: views/mv-translations_shortcode.php:132
+msgid "Your Translations"
+msgstr ""
